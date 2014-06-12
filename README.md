@@ -19,7 +19,8 @@ Clark, D., Tanner-Smith, E., Killingsworth, S . (2014). Digital Games, Design an
 
 Media Credit:
 The media used in this App was created by:
-	Sounds:
+
+Sounds:
 Title:  xylophone_affirm1
 http://www.narfstuff.co.uk/2009/09/13/royalty-free-ui-sound-pack-now-free/#more-68
 Recorded by:  NARFSTUFF
@@ -36,7 +37,8 @@ Title: Blop
 http://soundbible.com/2067-Blop.html
 Recorded by: Mark DiAngelo
 
-	Icons:
+
+Icons:
 Icons made by Freepik from Flaticon.com
 Play.png
 http://www.flaticon.com/free-icon/play-button_26025
